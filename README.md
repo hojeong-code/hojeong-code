@@ -21,7 +21,7 @@ Hi, my name is Holly Kim and I am majoring in computer science.
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-EE4C2C?style=for-the-badge&Jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/jupyter-EE4C2C?style=for-the-badge&logo=jupyter&logoColor=white">
   
 </div>
 <br />
