@@ -12,7 +12,7 @@ Hi, my name is Holly Kim and I am majoring in computer science.
 
 </div>
 
-#### I've used it before.
+#### I've used these before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;"> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
